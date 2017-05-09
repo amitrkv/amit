@@ -1,2 +1,1 @@
-# amit
-wipro
+# Wipro technologies
